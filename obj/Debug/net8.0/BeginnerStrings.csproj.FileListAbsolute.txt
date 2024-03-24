@@ -1,0 +1,14 @@
+C:\Users\sifis\Strings\BeginnerStrings\bin\Debug\net8.0\BeginnerStrings.exe
+C:\Users\sifis\Strings\BeginnerStrings\bin\Debug\net8.0\BeginnerStrings.deps.json
+C:\Users\sifis\Strings\BeginnerStrings\bin\Debug\net8.0\BeginnerStrings.runtimeconfig.json
+C:\Users\sifis\Strings\BeginnerStrings\bin\Debug\net8.0\BeginnerStrings.dll
+C:\Users\sifis\Strings\BeginnerStrings\bin\Debug\net8.0\BeginnerStrings.pdb
+C:\Users\sifis\Strings\BeginnerStrings\obj\Debug\net8.0\BeginnerStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sifis\Strings\BeginnerStrings\obj\Debug\net8.0\BeginnerStrings.AssemblyInfoInputs.cache
+C:\Users\sifis\Strings\BeginnerStrings\obj\Debug\net8.0\BeginnerStrings.AssemblyInfo.cs
+C:\Users\sifis\Strings\BeginnerStrings\obj\Debug\net8.0\BeginnerStrings.csproj.CoreCompileInputs.cache
+C:\Users\sifis\Strings\BeginnerStrings\obj\Debug\net8.0\BeginnerStrings.dll
+C:\Users\sifis\Strings\BeginnerStrings\obj\Debug\net8.0\refint\BeginnerStrings.dll
+C:\Users\sifis\Strings\BeginnerStrings\obj\Debug\net8.0\BeginnerStrings.pdb
+C:\Users\sifis\Strings\BeginnerStrings\obj\Debug\net8.0\BeginnerStrings.genruntimeconfig.cache
+C:\Users\sifis\Strings\BeginnerStrings\obj\Debug\net8.0\ref\BeginnerStrings.dll
